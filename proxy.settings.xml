@@ -1,0 +1,11 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="192.168.0.4" />
+    <option name="PROXY_PORT" value="3128" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="PROXY_LOGIN" value="mec" />
+    <option name="PROXY_PASSWORD_CRYPT" value="bWVj" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+    <option name="PROXY_EXCEPTIONS" value="192.168.0.4" />
+  </component>
+</application>
